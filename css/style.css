@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+.content{
+    background-color:black; 
+    padding-bottom : 3%;
+}
+
+.ui.inverted.menu img{
+    width: 23%;
+}
+
+.ui.inverted.menu #logout{
+    margin-left : 49%;
+}
+
+.ui.vertical.menu{
+    width: 20rem;
+}
+
+.ui.menu{
+    font-size: 1.4rem;
+}
+
+.ui.inverted.vertical.menu{
+    margin-top:1%;
+
+}
+
+.ui.inverted.vertical.menu a{
+    padding: 15%;
+}
+
+.ui.icon.message{
+    background-color: rgb(204, 202, 202);
+}
+
+.ui.icon.message>.content{
+    background-color: #cccaca ;
+}
+
+.ui.icon.message .content{
+   text-align: center;
+   font-size: 1.7rem;
+   margin-top: 3%;
+}
+.ui.pointing.menu{
+    width: 55%;
+   float: right;
+   margin-top: -24%;
+   margin-right: 17%;
+}
